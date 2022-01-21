@@ -21,7 +21,7 @@ En este este repositorio aprenderás a declarar y usar variables en Kotlin para 
 
 ## Variables De Solo Lectura
 Una variable de solo lectura (read-only) es una variable que no puede ser reasignada.
-Para declararlas, usa la palabra reservada val. y especifica su tipo de dato a su derecha con dos puntos (:).
+Para declararlas, usa la palabra reservada val. y especifica su tipo de dato a su derecha con dos puntos (:)
 O declárala con su tipo y asígnala en una línea futura.
 
 val xPos: Int = 1 // Asignación junto a declaración
