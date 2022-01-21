@@ -18,3 +18,12 @@ Usando Kotlin te beneficiarás de:
 
 # Variables En Kotlin
 En este este repositorio aprenderás a declarar y usar variables en Kotlin para almacenar datos en memoria. Verás que existen variables de solo lectura (read-only) y mutables, además de la inferencia que el compilador de Kotlin realiza
+
+## Variables De Solo Lectura
+Una variable de solo lectura (read-only) es una variable que no puede ser reasignada.
+Para declararlas, usa la palabra reservada val. y especifica su tipo de dato a su derecha con dos puntos (:).
+O declárala con su tipo y asígnala en una línea futura.
+
+val xPos: Int = 1 // Asignación junto a declaración
+val yPos: Int   // Declaración
+yPos = 5    // Asignación
