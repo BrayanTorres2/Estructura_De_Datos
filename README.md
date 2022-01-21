@@ -18,3 +18,5 @@ Usando Kotlin te beneficiarás de:
 
 
 
+#Variables En Kotlin
+En este este repositorio aprenderás a declarar y usar variables en Kotlin para almacenar datos en memoria. Verás que existen variables de solo lectura (read-only) y mutables, además de la inferencia que el compilador de Kotlin realiza
