@@ -24,6 +24,6 @@ Una variable de solo lectura (read-only) es una variable que no puede ser reasig
 Para declararlas, usa la palabra reservada val. y especifica su tipo de dato a su derecha con dos puntos (:)
 O declárala con su tipo y asígnala en una línea futura.
 
-val xPos: Int = 1 // Asignación junto a declaración
-val yPos: Int   // Declaración
-yPos = 5    // Asignación
+val xPos: Int = 1 // Asignación junto a declaración<br>
+val yPos: Int   // Declaración<br>
+yPos = 5    // Asignación<br>
