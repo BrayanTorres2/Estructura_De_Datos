@@ -33,4 +33,4 @@ Este tipo de variables las declaras con la palabra reservada var. Te permiten mo
 Si haces que la variable del ejemplo de la sección anterior sea mutable, ya no tendrás el error y se asignara el nuevo valor.
 
 
-href=”https://www.develou.com/expresion-when-en-kotlin/”>Información Completa</a>
+#  https://www.develou.com/expresion-when-en-kotlin/
