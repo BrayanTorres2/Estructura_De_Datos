@@ -27,3 +27,7 @@ O declárala con su tipo y asígnala en una línea futura.
 val xPos: Int = 1 // Asignación junto a declaración<br>
 val yPos: Int   // Declaración<br>
 yPos = 5    // Asignación<br>
+
+## Variables Mutables
+Este tipo de variables las declaras con la palabra reservada var. Te permiten modificar su valor cuando lo desees.
+Si haces que la variable del ejemplo de la sección anterior sea mutable, ya no tendrás el error y se asignara el nuevo valor.
